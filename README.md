@@ -50,7 +50,7 @@ My website:**https://buihaidang-pro.github.io/virtualfisher-hub/**
    pip install -r requirements.txt
    ```
 3. **Configure the script:**
-   Edit `config.json` with your game settings.
+   Edit `configs file in configs folder if there is no just run the script to create` with your game settings.
 4. **Run the script:**
    ```bash
    python autofishbot.py
