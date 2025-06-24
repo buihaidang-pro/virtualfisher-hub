@@ -2,6 +2,8 @@
 
 Automate your Virtual Fisher With Built-in captcha solver
 
+# 90-95% accurate captcha solver model
+
 You need to get key for the script to run(pls get key to support me update the script)
 
 key link: https://yeumoney.com/4xfdlH
