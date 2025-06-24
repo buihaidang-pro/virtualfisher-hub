@@ -4,8 +4,8 @@ Automate Your Virtual Fisher Adventure!
 
 Welcome to the Virtual Fisher Script Hub, the ultimate tool to dominate Virtual Fisher with automated fishing, resource optimization, and more! 🚀
 Visit the Project Website: https://buihaidang-pro.github.io/virtualfisher-hub/
-✨ Features
 
+✨ Features
 
 
 Feature
