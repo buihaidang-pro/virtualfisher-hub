@@ -1,9 +1,3 @@
-Virtual Fisher Script Hub 🎣
-Automate Your Virtual Fisher Adventure!
-[![GitHub Issues](https://img.shields.io/github/issues/your-1. Header: Project title and tagline with a badge or image.2. Hero Section: Brief introduction and CTA linking to the GitHub Pages site.3. Features: Highlight key features in a visually appealing way (e.g., with emojis or a table).4. Setup Guide: Clear, numbered steps mirroring the HTML setup section.5. Contact: Links to Discord, GitHub, etc.6. Contributing: Instructions for contributors (optional).7. License: Reference to the MIT License.
-Step 3: Create the Customized README.md
-Below is a customized README.md that emulates the style and content of your index.html. Replace your-username and your-discord with your actual GitHub username and Discord invite link.
-
 # Virtual Fisher Script Hub 🎣
 
 Automate Your Virtual Fisher Adventure!
@@ -33,17 +27,17 @@ Undetectable scripts designed to keep your account secure.
 
 🛠️ Getting Started
 
-Clone the Repository:git clone https://github.com/your-username/virtual-fisher-script-hub.git
+Clone the Repository:git clone https://github.com/buihaidang-pro/virtualfisher-hub
 
 
 Install Dependencies:pip install -r requirements.txt
 
 
 Configure Settings:
-Edit config.json with your game settings (see documentation).
+Edit fish.config with your own settings (see documentation).
 
 
-Run the Script:python main.py
+Run the Script:python autofishbot.py
 
 
 Enjoy Automation:
@@ -57,7 +51,7 @@ Watch your Virtual Fisher progress soar!
 📞 Get in Touch
 Have questions or suggestions? Join our community!  
 
-📢 Discord  
+📢 Discord : https://discord.gg/hSHqqzbN3B 
 🐛 GitHub Issues  
 👤 Follow Me on GitHub
 
