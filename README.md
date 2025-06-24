@@ -28,7 +28,7 @@ key link: https://yeumoney.com/4xfdlH
 
 | 🐟 **Auto Fishing**         | ⚙️ **Resource Optimization** | 🛡️ **Safe & Reliable**        |
 |----------------------------|------------------------------|-------------------------------|
-| Effortlessly catch fish 24/7 with advanced automation scripts. | Maximize your in-game resources with intelligent algorithms. | Scripts designed to be undetectable and safe for your account. |
+| Effortlessly catch fish 24/7 with advanced automation scripts with captcha solver. | Auto detect captcha and solve for you. | Scripts designed to be undetectable and safe for your account. |
 
 </div>
 
@@ -64,15 +64,6 @@ key link: https://yeumoney.com/4xfdlH
 ---
 
 
-## 💡 Why Choose Us?
-
-- Modern, user-friendly interface
-- Actively maintained and improved
-- Supportive community
-- 100% free and open source
-
----
-
 ## 📞 Contact & Community
 
 - 💬 [Join our Discord](https://discord.gg/hSHqqzbN3B)
@@ -81,5 +72,5 @@ key link: https://yeumoney.com/4xfdlH
 ---
 
 <p align="center">
-  <b>© 2025 Virtual Fisher Script Hub. All rights reserved.</b>
+  <b>© 2025 Virtual Fisher Hub. All rights reserved.</b>
 </p>
