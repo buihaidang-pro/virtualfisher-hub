@@ -42,7 +42,7 @@ Automate your Virtual Fisher adventure with powerful, safe, and easy-to-use scri
    Edit `config.json` with your game settings.
 4. **Run the script:**
    ```bash
-   python main.py
+   python autofishbot.py
    ```
 5. **Enjoy automated gameplay and watch your progress soar!**
 
@@ -59,7 +59,7 @@ Automate your Virtual Fisher adventure with powerful, safe, and easy-to-use scri
 
 ## 📞 Contact & Community
 
-- 💬 [Join our Discord](https://discord.gg/hSHqqzbN3B)
+- 💬 [Join our Discord]([https://discord.gg/hSHqqzbN3B](https://discord.gg/hSHqqzbN3B))
 - 🌐 [GitHub Repository](https://github.com/buihaidang-pro/virtualfisher-hub)
 
 ---
