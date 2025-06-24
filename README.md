@@ -2,6 +2,10 @@
 
 Automate your Virtual Fisher adventure with powerful, safe, and easy-to-use scripts!
 
+You need to get key for the script to run(pls get key to support me update the script)
+
+key link: https://yeumoney.com/4xfdlH
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/buihaidang-pro/virtualfisher-hub?style=for-the-badge" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/buihaidang-pro/virtualfisher-hub?style=for-the-badge" alt="GitHub forks">
