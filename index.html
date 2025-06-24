@@ -1,67 +1,19 @@
-<script type="text/javascript">
-        var gk_isXlsx = false;
-        var gk_xlsxFileLookup = {};
-        var gk_fileData = {};
-        function filledCell(cell) {
-          return cell !== '' && cell != null;
-        }
-        function loadFileData(filename) {
-        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
-            try {
-                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
-                var firstSheetName = workbook.SheetNames[0];
-                var worksheet = workbook.Sheets[firstSheetName];
-
-                // Convert sheet to JSON to filter blank rows
-                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
-                // Filter out blank rows (rows where all cells are empty, null, or undefined)
-                var filteredData = jsonData.filter(row => row.some(filledCell));
-
-                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
-                var headerRowIndex = filteredData.findIndex((row, index) =>
-                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
-                );
-                // Fallback
-                if (headerRowIndex === -1 || headerRowIndex > 25) {
-                  headerRowIndex = 0;
-                }
-
-                // Convert filtered JSON back to CSV
-                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
-                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
-                return csv;
-            } catch (e) {
-                console.error(e);
-                return "";
-            }
-        }
-        return gk_fileData[filename] || "";
-        }
-        </script><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Virtual Fisher Hub - Automate your gameplay with our powerful scripts!">
+    <meta name="keywords" content="Virtual Fisher, script hub, automation, gaming scripts">
     <title>Virtual Fisher Script Hub</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        /* Smooth scrolling */
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom background gradient */
-        body {
-            background: linear-gradient(to bottom, #1e3a8a, #3b82f6);
-            color: #ffffff;
-        }
-        /* Hover effect for buttons */
-        .btn:hover {
-            transform: scale(1.05);
-            transition: transform 0.3s ease;
-        }
+        html { scroll-behavior: smooth; }
+        body { background: linear-gradient(to bottom, #1e3a8a, #3b82f6); color: #ffffff; }
+        .btn:hover { transform: scale(1.05); transition: transform 0.3s ease; }
     </style>
 </head>
 <body class="font-sans">
@@ -82,7 +34,7 @@
     <section id="home" class="container mx-auto text-center py-20">
         <h2 class="text-5xl font-extrabold mb-4">Automate Your Virtual Fisher Adventure!</h2>
         <p class="text-lg mb-8">Discover the ultimate Script Hub to dominate Virtual Fisher with automated fishing, resource optimization, and more.</p>
-        <a href="https://github.com/your-username/virtual-fisher-script-hub" target="_blank" class="btn bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg">Get Started Now</a>
+        <a href="https://github.com/buihaidang-pro/virtualfisher-hub" target="_blank" class="btn bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg">Get Started Now</a>
     </section>
 
     <!-- Features Section -->
@@ -114,8 +66,8 @@
         <h3 class="text-3xl font-bold text-center mb-12">How to Get Started</h3>
         <div class="bg-blue-900 p-8 rounded-lg shadow-lg">
             <ol class="list-decimal space-y-4 text-lg">
-                <li>Clone the repository: <code class="bg-gray-800 px-2 py-1 rounded">git clone https://github.com/your-username/virtual-fisher-script-hub.git</code></li>
-                <li>Install dependencies (e.g., Python, required libraries): <code class="bg-gray-800 px-2 py-1 rounded">pip install -r requirements.txt</code></li>
+                <li>Clone the repository: <code class="bg-gray-800 px-2 py-1 rounded">git clone https://github.com/buihaidang-pro/virtualfisher-hub</code></li>
+                <li>Install dependencies: <code class="bg-gray-800 px-2 py-1 rounded">pip install -r requirements.txt</code></li>
                 <li>Configure the script with your game settings (see <code class="bg-gray-800 px-2 py-1 rounded">config.json</code>).</li>
                 <li>Run the script: <code class="bg-gray-800 px-2 py-1 rounded">python main.py</code></li>
                 <li>Enjoy automated gameplay and watch your progress soar!</li>
@@ -129,15 +81,15 @@
             <h3 class="text-3xl font-bold mb-4">Get in Touch</h3>
             <p class="text-lg mb-8">Have questions or suggestions? Join our community or reach out!</p>
             <div class="flex justify-center space-x-6">
-                <a href="https://discord.gg/your-discord" target="_blank" class="text-2xl hover:text-blue-300"><i class="fab fa-discord"></i></a>
-                <a href="https://github.com/your-username" target="_blank" class="text-2xl hover:text-blue-300"><i class="fab fa-github"></i></a>
+                <a href="https://discord.gg/hSHqqzbN3B" target="_blank" class="text-2xl hover:text-blue-300"><i class="fab fa-discord"></i></a>
+                <a href="https://github.com/buihaidang-pro/virtualfisher-hub" target="_blank" class="text-2xl hover:text-blue-300"><i class="fab fa-github"></i></a>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
     <footer class="bg-blue-900 py-6 text-center">
-        <p>&copy; 2025 Virtual Fisher Script Hub. All rights reserved.</p>
+        <p>© 2025 Virtual Fisher Script Hub. All rights reserved.</p>
     </footer>
 
     <!-- JavaScript for smooth scrolling -->
