@@ -1,6 +1,6 @@
 # 🎣 Virtual Fisher Script Hub
 
-Automate your Virtual Fisher adventure with powerful, safe, and easy-to-use scripts!
+Automate your Virtual Fisher With Built-in captcha solver
 
 You need to get key for the script to run(pls get key to support me update the script)
 
