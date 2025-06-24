@@ -11,3 +11,4 @@ transformers
 pillow
 numpy
 opencv-python
+pyarmor
