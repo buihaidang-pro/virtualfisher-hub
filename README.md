@@ -9,7 +9,7 @@ Automate your Virtual Fisher With Built-in captcha solver
 You need to get key for the script to run(pls get key to support me update the script)
 
 key link: https://yeumoney.com/4xfdlH
-### 60sec for getting the key and key will last for 48hrs
+### 60sec for getting the key and key will last for 24hrs
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/buihaidang-pro/virtualfisher-hub?style=for-the-badge" alt="GitHub stars">
