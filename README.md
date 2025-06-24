@@ -56,6 +56,14 @@ key link: https://yeumoney.com/4xfdlH
 6. **You need to get your discord account token**
 ---
 
+
+## 🎬 How to get token
+
+[Watch the video on Vimeo](https://player.vimeo.com/video/1095908667?badge=0&autopause=0&player_id=0&app_id=58479)
+
+---
+
+
 ## 💡 Why Choose Us?
 
 - Modern, user-friendly interface
