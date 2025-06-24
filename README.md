@@ -8,7 +8,7 @@ Safe & Reliable: Undetectable scripts to keep your account secure.
 
 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/virtual-fisher-script-hub.git
+Clone the repository: git clone https://github.com/buihaidang-pro/virtualfisher-hub/tree/main
 Install dependencies: pip install -r requirements.txt
 Configure config.json with your game settings.
 Run the script: python main.py
