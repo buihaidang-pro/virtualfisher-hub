@@ -14,6 +14,8 @@ key link: https://yeumoney.com/4xfdlH
 
 ---
 
+**https://buihaidang-pro.github.io/virtualfisher-hub/**
+
 ## 🚀 Automate Your Virtual Fisher Adventure!
 
 **Virtual Fisher Script Hub** is the ultimate toolkit to dominate Virtual Fisher with automated fishing, resource optimization, and more. Enjoy a seamless, modern experience inspired by our beautiful web interface.
