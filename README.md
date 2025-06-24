@@ -7,6 +7,7 @@ Automate your Virtual Fisher With Built-in captcha solver
 You need to get key for the script to run(pls get key to support me update the script)
 
 key link: https://yeumoney.com/4xfdlH
+### 60sec for getting the key and key will last for 48hrs
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/buihaidang-pro/virtualfisher-hub?style=for-the-badge" alt="GitHub stars">
@@ -55,8 +56,6 @@ My website:**https://buihaidang-pro.github.io/virtualfisher-hub/**
    python autofishbot.py
    ```
 5. **Get key and configure the script to your liking**
-
- ###  60sec for getting the key and key will last for 48hrs
 
 6. **You need to get your discord account token**
 ---
