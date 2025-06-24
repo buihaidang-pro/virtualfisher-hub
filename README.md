@@ -51,13 +51,16 @@ My website:**https://buihaidang-pro.github.io/virtualfisher-hub/**
    ```
 3. **Configure the script:**
    Edit `configs file in configs folder if there is no just run the script to create` with your game settings.
-4. **Run the script:**
+
+   **Remember to turn on Developer mode in discord and get your server ID and the channel ID you want to use bot on and paste it in the configs file in the configs folder as well as token if you didnt have one**
+
+5. **Run the script:**
    ```bash
    python autofishbot.py
    ```
-5. **Get key and configure the script to your liking**
+6. **Get key and configure the script to your liking**
 
-6. **You need to get your discord account token**
+7. **You need to get your discord account token**
 ---
 
 
