@@ -34,7 +34,7 @@ Install Dependencies:pip install -r requirements.txt
 
 
 Configure Settings:
-Edit fish.config with your own settings (see documentation).
+Edit fish.config with your own settings.
 
 
 Run the Script:python autofishbot.py
@@ -64,7 +64,6 @@ Commit changes: git commit -m "Add your feature".
 Push to the branch: git push origin feature/your-feature.
 Open a pull request.
 
-See CONTRIBUTING.md for details.
 📜 License
 This project is licensed under the MIT License.
 
