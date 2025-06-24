@@ -14,7 +14,9 @@ key link: https://yeumoney.com/4xfdlH
 
 ---
 
-**https://buihaidang-pro.github.io/virtualfisher-hub/**
+My website:**https://buihaidang-pro.github.io/virtualfisher-hub/**
+
+**Caution: First time load the script will take long because the script download the captcha solver from HuggingFace model that why it take time but after that your script will operate smoothly
 
 ## 🚀 Automate Your Virtual Fisher Adventure!
 
