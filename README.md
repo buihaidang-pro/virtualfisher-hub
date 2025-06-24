@@ -52,6 +52,8 @@ key link: https://yeumoney.com/4xfdlH
    ```
 5. **Get key and configure the script to your liking**
 
+
+6. **You need to get your discord account token**
 ---
 
 ## 💡 Why Choose Us?
