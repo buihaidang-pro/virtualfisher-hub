@@ -1,5 +1,7 @@
 # 🎣 Virtual Fisher Script Hub
 
+# Only support python 3.13 or newer version
+
 Automate your Virtual Fisher With Built-in captcha solver
 
 # 90-95% accurate captcha solver model
