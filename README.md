@@ -67,7 +67,7 @@ key link: https://yeumoney.com/4xfdlH
 
 ## 📞 Contact & Community
 
-- 💬 [Join our Discord]([https://discord.gg/hSHqqzbN3B])
+- 💬 [Join our Discord](https://discord.gg/hSHqqzbN3B)
 - 🌐 [GitHub Repository](https://github.com/buihaidang-pro/virtualfisher-hub)
 
 ---
