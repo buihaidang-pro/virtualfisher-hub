@@ -56,6 +56,7 @@ My website:**https://buihaidang-pro.github.io/virtualfisher-hub/**
    ```
 5. **Get key and configure the script to your liking**
 
+### 60sec for getting the key and key will last for 48hrs
 
 6. **You need to get your discord account token**
 ---
