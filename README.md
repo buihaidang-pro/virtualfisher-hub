@@ -48,7 +48,7 @@ key link: https://yeumoney.com/4xfdlH
    ```bash
    python autofishbot.py
    ```
-5. **Enjoy automated gameplay and watch your progress soar!**
+5. **Get key and configure the script to your liking**
 
 ---
 
